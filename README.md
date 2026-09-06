@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raymond Paradell</h1>
-<h3 align="center">A passionate Quantitative Development Student from Dominican Republic</h3>
+<h3 align="center">A passionate Software Development Student from Dominican Republic</h3>
 
 - 🔭 I’m currently working on [Pactolus Engine Prototype AI](https://github.com/RaxDotPy/pactolus-engine-prototype-ai-solution-for-dr-informal-economy)
 
