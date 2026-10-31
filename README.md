@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pactolus Engine Prototype AI](https://github.com/RaxDotPy/pactolus-engine-prototype-ai-solution-for-dr-informal-economy)
 
-- 🌱 I’m currently learning **Lead AI Engineer / Full-Stack Data Solutions Architect**
+- 🌱 I’m currently learning **Lead AI Engineer / Full-Stack Data Solutions Architect / AI-Agentic Data Engineer**
 
 - 👯 I’m looking to collaborate on [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge)
 
