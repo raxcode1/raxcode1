@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, linux, git**
 
-- 📫 How to reach me **20221736@itla.edu.do**
+- 📫 How to reach me **raxblxofficial@gmail.com**
 
 - ⚡ Fun fact **I know how to make Minecraft Servers, but don't know how to code in Java**
 
